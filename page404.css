@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title-404 {
+  font-size: 50px;
+  color: #14213d;
+}
+
+main {
+  width: 100%;
+}
